@@ -1,5 +1,6 @@
 # Research-Project
 This research study, published in the Indian Journal of Pharmacy Practice (IJOPP), demonstrates that outpatient gastrointestinal endoscopy can be effectively performed without sedation. This approach minimizes common sedative-related side effects, reduces costs, and enhances patients' quality of life.
+[DOI: 10.5530/ijopp.15.2.22](https://doi.org/10.5530/ijopp.15.2.22)
 # Impact of Non-sedation in Gastrointestinal Conventional Endoscopy Practices in Outpatient Setup
 
 ## Description
